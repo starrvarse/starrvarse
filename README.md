@@ -45,6 +45,8 @@ BigSur is a product-first innovation lab focused on building privacy-first, scal
 
 | 🚀 Product | 🌟 Description |
 |-----------|----------------|
+| **Dateable** | 18+ dating platform with absolute privacy, NSFW freedom, and no moderation |
+| **Get Geo Location** | Fast and reliable geolocation API for real-time IP intelligence |
 | **BigData** | Comprehensive data management with advanced processing and analytics |
 | **NubeDrive** | Advanced file management system with powerful features |
 | **Easy Cloud Backup** | Automated cloud backup system for NubeDrive users |
@@ -91,9 +93,9 @@ BigSur is a product-first innovation lab focused on building privacy-first, scal
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-I’m always open to ideas, collaborations, or just a good dev conversation.  
+I'm always open to ideas, collaborations, or just a good dev conversation.  
 Feel free to connect on [LinkedIn](https://linkedin.com/in/your-link) or explore [BigSur.in](https://bigsur.in) for the latest products.
 
-> _“Code smarter. Build better. Stay curious.”_
+> _"Code smarter. Build better. Stay curious."_
