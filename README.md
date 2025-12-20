@@ -133,7 +133,7 @@ const starr = {
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=starrvarse&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=starrvarse&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -143,7 +143,7 @@ const starr = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=starrvarse&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=starrvarse&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -153,17 +153,18 @@ const starr = {
 
 <div align="center">
 
-[![Starr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=starrvarse&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=starrvarse&custom_title=Starr's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🎯 Coding Activity
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/starrvarse/starrvarse/output/github-contribution-grid-snake-dark.svg)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
