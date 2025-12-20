@@ -1,97 +1,215 @@
-<!-- Minimal Animated Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1200&color=6EE7B7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Starr+Varse.;Founder+%40+BigSur.in;Full-Stack+Developer+%7C+Automation+Builder;Privacy-first+Systems+Engineer" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://bigsur.in"><strong>bigsur.in</strong></a>
-</p>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi there, I'm Starr Varse!
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Automation+Enthusiast;Privacy-First+Solutions+Builder;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 
-## About
+**Founder @ [BigSur.in](https://bigsur.in)** | Turning Ideas into Reality ✨
 
-I’m a **full-stack developer and product founder** focused on building  
-**privacy-first, scalable systems** — not disposable apps.
+[![Portfolio](https://img.shields.io/badge/Portfolio-bigsur.in-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bigsur.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@bigsur.in)
 
-I design software that:
-- scales cleanly  
-- automates real work  
-- respects user privacy  
-- survives long-term  
-
-Currently building **ERP platforms, developer tools, and custom mail infrastructure** at **BigSur**.
+</div>
 
 ---
 
-## Focus Areas
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- Backend systems & APIs  
-- Automation & internal tooling  
-- SaaS architecture  
-- Privacy-centric product design  
-- Self-hosted infrastructure  
+## 🔥 About Me
 
----
+```javascript
+const starr = {
+    pronouns: "He" | "Him",
+    location: "Mankāchar, Meghalaya, IN",
+    company: "BigSur.in",
+    role: "Founder & Full-Stack Developer",
+    
+    currentFocus: [
+        "Building developer-first tools",
+        "Privacy-first SaaS solutions",
+        "Real-time distributed systems",
+        "Custom mail server suite"
+    ],
+    
+    philosophy: "Code smarter. Build better. Stay curious.",
+    
+    funFact: "I turn coffee into code ☕➡️💻"
+};
+```
 
-## Tech Stack
-
-**Languages**  
-Python · JavaScript · HTML · CSS  
-
-**Frameworks**  
-Node.js · Express · React · Tailwind  
-
-**Data**  
-SQLite · Firebase  
-
-**Tools**  
-Git · VS Code · Postman · NPM  
-
----
-
-## Products @ BigSur
-
-BigSur is a product-first lab building practical, scalable software.
-
-- **Dateable** — Privacy-first adult social platform  
-- **NubeDrive** — Advanced file & storage system  
-- **BigData** — Data processing & analytics  
-- **School Management** — Education ERP  
-- **Distribution Management** — Supply-chain automation  
-- **Banking & Billing Systems** — Secure financial tools  
-- **On-Demand Platforms** — Custom SaaS solutions  
+<br clear="right"/>
 
 ---
 
-## Selected Open Source
+## 🛠️ Tech Arsenal
 
-- https://github.com/starrvarse/fdds-software  
-- https://github.com/starrvarse/InstantDrive  
-- https://github.com/starrvarse/bankingmanagementsyetem  
-- https://github.com/starrvarse/ems  
+<div align="center">
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚡ Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
 
 ---
 
-## GitHub Activity
+## 🚀 BigSur.in Ecosystem
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starrvarse&show_icons=true&hide_border=true&bg_color=00000000&title_color=6EE7B7&icon_color=6EE7B7&text_color=9CA3AF" height="160"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrvarse&layout=compact&hide_border=true&bg_color=00000000&title_color=6EE7B7&text_color=9CA3AF" height="140"/>
-</p>
+> **Privacy-first, scalable, and powerful SaaS tools for the modern world**
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 Core Products
+
+🎯 **Dateable** - Privacy-first 18+ dating platform  
+📍 **Get Geo Location** - Real-time IP intelligence API  
+💾 **BigData** - Advanced data management & analytics  
+☁️ **NubeDrive** - Powerful file management system  
+🔄 **Easy Cloud Backup** - Automated backup solution
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Enterprise Solutions
+
+📦 **Distribution Management** - Supply chain automation  
+🎓 **School Management** - Education system suite  
+🏦 **Banking Solutions** - Financial management platform  
+💳 **Billing Software** - Multi-unit billing system  
+🎬 **BigSur Player** - Desktop video player  
+🛎️ **On-Demand Services** - Custom service solutions
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Contact
+## 💻 Featured Projects
 
-Website → https://bigsur.in  
+<div align="center">
 
-Open to:
-- serious collaborations  
-- long-term product building  
-- infrastructure & SaaS discussions  
+[![FDDS Software](https://github-readme-stats.vercel.app/api/pin/?username=starrvarse&repo=fdds-software&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/starrvarse/fdds-software.git)
+[![Instant Drive](https://github-readme-stats.vercel.app/api/pin/?username=starrvarse&repo=InstantDrive&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/starrvarse/InstantDrive.git)
 
-> *Build quietly. Ship solid. Let the product speak.*
+[![Banking Management](https://github-readme-stats.vercel.app/api/pin/?username=starrvarse&repo=bankingmanagementsyetem&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/starrvarse/bankingmanagementsyetem.git)
+[![Employee Management](https://github-readme-stats.vercel.app/api/pin/?username=starrvarse&repo=ems&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/starrvarse/ems.git)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=starrvarse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrvarse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=starrvarse&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=starrvarse&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Starr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=starrvarse&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/starrvarse/starrvarse/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Let's Connect & Collaborate
+
+I'm always excited to discuss new ideas, collaborate on projects, or just have a good developer conversation!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_BigSur-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bigsur.in)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@bigsur.in)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=starrvarse&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
+
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<details>
+<summary>⚡ More About Me</summary>
+
+### 🎯 Current Goals for 2025
+- 🌟 Launch 5+ new products on BigSur.in
+- 📚 Contribute to more open-source projects
+- 🎓 Mentor aspiring developers
+- 🚀 Scale BigSur products to 10K+ users
+
+### 🎮 When I'm Not Coding
+- 📖 Reading tech blogs and documentation
+- 🎵 Exploring new music
+- ☕ Brewing the perfect cup of coffee
+- 🌄 Exploring the beautiful landscapes of Meghalaya
+
+</details>
+
+---
+
+### ⭐ From [starrvarse](https://github.com/starrvarse) with 💙
+
+> _"The best way to predict the future is to invent it."_ - Alan Kay
+
+</div>
