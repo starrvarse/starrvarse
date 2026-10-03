@@ -10,7 +10,8 @@
 
 <a href="https://bigsur.in"><img src="https://img.shields.io/badge/BigSur_Corp-00D9FF?style=flat-square&logo=googlechrome&logoColor=black" /></a>
 <a href="https://github.com/starrvarse"><img src="https://img.shields.io/badge/@starrvarse-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/India-FF9933?style=flat-square" />
+<a href="https://www.instagram.com/____.kyrios.____/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/India-FF9933?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCI%2BPHJlY3Qgd2lkdGg9IjMwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjZmZmIi8%2BPHJlY3Qgd2lkdGg9IjMwIiBoZWlnaHQ9IjYuNjciIGZpbGw9IiNGRjk5MzMiLz48cmVjdCB5PSIxMy4zMyIgd2lkdGg9IjMwIiBoZWlnaHQ9IjYuNjciIGZpbGw9IiMxMzg4MDgiLz48Y2lyY2xlIGN4PSIxNSIgY3k9IjEwIiByPSIyLjgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMDA4MCIgc3Ryb2tlLXdpZHRoPSIwLjciLz48Y2lyY2xlIGN4PSIxNSIgY3k9IjEwIiByPSIwLjYiIGZpbGw9IiMwMDAwODAiLz48L3N2Zz4%3D" />
 
 </div>
 
@@ -149,6 +150,12 @@ SMTP · IMAP · POP3 · SPF · DKIM · DMARC · CalDAV · CardDAV
 Interested in AI, developer tools, security, infrastructure, mail tech, or just a good idea worth building.
 
 <div align="center">
+
+<br/>
+
+<a href="https://bigsur.in"><img src="https://img.shields.io/badge/BigSur_Corp-00D9FF?style=flat-square&logo=googlechrome&logoColor=black" /></a>
+<a href="https://github.com/starrvarse"><img src="https://img.shields.io/badge/@starrvarse-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://www.instagram.com/____.kyrios.____/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 
 <br/>
 
