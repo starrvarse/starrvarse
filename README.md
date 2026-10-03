@@ -77,13 +77,13 @@ SMTP · IMAP · POP3 · SPF · DKIM · DMARC · CalDAV · CardDAV
 <tr>
 <td width="33%" valign="top">
 
-**ZiloOne**
+**[ZiloOne ↗](https://zilomail.in)**
 <br/><sub>Business suite: sales, inventory, accounting, CRM, HR, projects, support.</sub>
 
 </td>
 <td width="33%" valign="top">
 
-**ZiloMail**
+**[ZiloMail ↗](https://zilomail.in)**
 <br/><sub>Mail infrastructure: SMTP, IMAP, POP3, authentication, deliverability.</sub>
 
 </td>
